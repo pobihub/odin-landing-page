@@ -151,3 +151,62 @@
 
     }
     
+/*This section styles the Call to Action section*/
+
+.callToActionContainer{
+    background-color: #FFFFFF;    
+}
+
+.callToActionBox {
+    background-color: #3882f6;
+    display: flex;
+    flex-direction: row;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    border-radius: 10px;
+}
+
+.actionCall1 {
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:#FFFFFF;
+    font-weight: bold;
+    padding-left: 125px;
+    margin-bottom: 0px;
+    margin-top: 45px;
+
+}
+
+.actionCall2 {
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:#FFFFFF;
+    font-weight:lighter;
+    padding-left: 125px;
+    margin-bottom: 40px;
+    margin-top: 0px;
+}
+
+.buttonTwo {
+    
+        font-size: 15px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color:#FFFFFF;
+        font-weight: bold;
+        padding-left: 125px;
+        margin-bottom: 0px;
+        margin-top: 45px;
+    
+}
+
+.signUpButtonTwo {
+    background-color: #3882f6;
+    font-size: 20px;
+    width: 140px;
+    border-radius: 6px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:#FFFFFF;
+    font-weight: bold;
+}
