@@ -73,3 +73,49 @@
     
 
 /*This section styles the Random Information section*/
+.randomInfoContainer{
+    background-color: #FFFFFF;
+    /*border: 1px solid blue;
+    display: flex;
+    */
+}
+
+.randomInfo1 {
+    font-size: 36px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000000;
+    margin-right: auto;
+}
+
+.illustration {
+    display: flex;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #1f2937;
+    flex-direction: row;
+    margin-right: 220px;
+    margin-left: 220px;
+}
+
+.illustrationOne,.illustrationTwo,.illustrationThree,.illustrationFour {
+    
+    flex-direction: column;
+    margin: 0px auto;
+    
+    
+    
+}
+
+.illusBox1,.illusBox2,.illusBox3,.illusBox4{
+    border: 4px solid #3882f6;
+    border-radius: 15px;
+    width: 150px;
+    height: 150px;
+}
+
+.subtext1,.subtext2,.subtext3,.subtext4 {
+    margin-bottom: 0px;
+    text-align: center;
+    
+}
