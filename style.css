@@ -1,3 +1,4 @@
+/*This section syles the Header section*/
 .containerMain {
     background-color: white;
     border: 1px solid #1f2937;
@@ -61,19 +62,14 @@
     margin-right: 0px;
 }
 
-/*.imageContext {
-    width: 400px;
-    height: 250px;
-    border: 0px;
-    background-color: beige;
-    }
-    */
-
-img {
-    width: 525px;
+.imageContext {
+     width: 525px;
     height: 225px;
     border: 0px;
     background-color: beige;
     margin-top: 150px;
     margin-right: 30px;
-}
+    }
+    
+
+/*This section styles the Random Information section*/
